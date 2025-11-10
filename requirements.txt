@@ -1,4 +1,7 @@
 runpod
 moviepy
-gtts
+Pillow
 requests
+torch
+diffusers
+transformers
