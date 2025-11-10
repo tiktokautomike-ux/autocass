@@ -1,0 +1,4 @@
+runpod
+moviepy
+gtts
+requests
